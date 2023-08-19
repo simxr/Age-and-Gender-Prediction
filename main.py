@@ -80,6 +80,6 @@ while True:
 
 video.release()
 cv2.destroyAllWindows()
-
+#Press Ctrl+c in terminal to terminate
  
 
